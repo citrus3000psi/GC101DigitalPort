@@ -1,0 +1,2 @@
+Audio Jack = SJ-43614-SMT-TR
+CON = 3-1775333-0

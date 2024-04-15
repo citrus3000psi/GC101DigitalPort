@@ -1,6 +1,3 @@
-# GC101DigitalPort
-
-
 Misc parts needed
 
 1 x 2mm Screw x 10mm
